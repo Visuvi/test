@@ -1,0 +1,28 @@
+html {
+    background-color:#95DBE5FF;
+    
+    
+}
+h1 {
+    color: #078282FF;
+    text-align: center;
+    font-family: 'Oswald';
+}
+p{
+    color: rgb(31, 77, 54);
+    margin: 0;
+    display: inline;
+    font-family: 'Roboto';
+}
+.dag{
+    margin: 0;
+    display: inline;
+    color: rgb(35, 31, 31);
+}
+.xdag{
+    margin: 0;
+    display: inline;
+    color: rgb(37, 37, 50);
+    
+}
+
